@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/operational_list/static/css/main.ca78faa7.css",
+    "main.js": "/operational_list/static/js/main.5e8b0b51.js",
+    "index.html": "/operational_list/index.html",
+    "main.ca78faa7.css.map": "/operational_list/static/css/main.ca78faa7.css.map",
+    "main.5e8b0b51.js.map": "/operational_list/static/js/main.5e8b0b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca78faa7.css",
+    "static/js/main.5e8b0b51.js"
+  ]
+}
